@@ -1,0 +1,65 @@
+{
+  "gifs": [
+    {
+      "id": 1,
+      "sentiment": "no",
+      "image": "https://yesno.wtf/assets/no/8-5e08abbe5aacd2cf531948145b787e9a.gif",
+      "name": "Will Smith"
+    },
+    {
+      "id": 2,
+      "sentiment": "yes",
+      "image": "https://yesno.wtf/assets/yes/5-64c2804cc48057b94fd0b3eaf323d92c.gif",
+      "name": "John Krasinski"
+    },
+    {
+      "id": 3,
+      "sentiment": "no",
+      "image": "https://yesno.wtf/assets/no/18-1ba72d815ec0e2bff8dba8699a50e275.gif",
+      "name": "Batman"
+    },
+    {
+      "id": 4,
+      "sentiment": "no",
+      "image": "https://yesno.wtf/assets/no/13-755222c98795431aa2e7d453ab1e75a1.gif",
+      "name": "Graham Norton Show"
+    },
+    {
+      "id": 5,
+      "sentiment": "no",
+      "image": "https://yesno.wtf/assets/no/4-122be48db47678331dbef3dd6ac6ff56.gif",
+      "name": "Robert Downey Jr"
+    },
+    {
+      "id": 6,
+      "sentiment": "no",
+      "image": "https://yesno.wtf/assets/no/12-dafd576be23d3768641340f76658ddfe.gif",
+      "name": "Charles Bronson"
+    },
+    {
+      "id": 7,
+      "sentiment": "yes",
+      "image": "https://yesno.wtf/assets/yes/8-2f93962e2ab24427df8589131da01a4d.gif",
+      "name": "Rihanna"
+    },
+    {
+      "id": 8,
+      "sentiment": "yes",
+      "image": "https://yesno.wtf/assets/yes/15-3d723ea13af91839a671d4791fc53dcc.gif",
+      "name": "Jack Nicholas"
+    },
+    {
+      "id": 9,
+      "sentiment": "yes",
+      "image": "https://yesno.wtf/assets/yes/0-c44a7789d54cbdcad867fb7845ff03ae.gif",
+      "name": "Kristen Bell"
+    },
+    {
+      "id": 10,
+      "sentiment": "yes",
+      "image": "https://yesno.wtf/assets/yes/3-422e51268d64d78241720a7de52fe121.gif",
+      "name": "Hugh Laurie"
+    }
+    
+  ]
+}
