@@ -2,14 +2,14 @@
 
 ### Overview
 yesno is a webpage that will enable a user to click on entries from the filter up top, and will fetch the appropriate graphic user image, name, and sentiment below.
-The user will be able to reset all filter functionality by the keydown function and enabling them to utilize another filter.
+The user will be able to reset all filter functionality by the keydown function and enable them to utilize another filter.
 
 
 
 ### Features
 The page will load with a filter up top and a summary container displaying one gif or all the gifs depending on user's filter selection
 The keydown feature can be utilized to reset the filters and display all the graphic user images.
-Each entry will have the graphic user image, a p tag indicating the sentiment of the gif, and the name of the person within the gif's content
+Each entry will have the graphic user image, a p tag indicating the sentiment of the gif, and the h3 tag associating to the name of the person within the gif's content
 
 
 
