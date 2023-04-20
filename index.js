@@ -7,9 +7,7 @@ function resetContainers(){
   fetchAll()
 }
 
-document.addEventListener('DOMContentLoaded',()=>{
-  fetchAll()
-})
+document.addEventListener('DOMContentLoaded',fetchAll())
 
 function fetchAll(){
   fetch(' http://localhost:3000/gifs')
@@ -17,9 +15,7 @@ function fetchAll(){
   .then(data=>renderData(data))
 }
 
-document.addEventListener('keydown',()=>{
-  resetContainers()
-})
+document.addEventListener('keydown',resetContainers())
 
 function renderData(gifs){
   const gifSummary = document.getElementById('gif-summary-container')
